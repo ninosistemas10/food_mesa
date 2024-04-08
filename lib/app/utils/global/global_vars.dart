@@ -1,0 +1,2 @@
+dynamic imageFile;
+String? fileName;
